@@ -1,4 +1,4 @@
-Here is a sample `README.md` file for your **Hospital Management System** project:
+
 
 ---
 
@@ -38,7 +38,7 @@ The **Hospital Management System** is a web-based application designed to effici
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/hospital-management-system.git  
+   git clone https://github.com/Darshanchinivar/hospital-management-system.git  
    ```  
 
 2. **Set Up the Database**  
@@ -60,22 +60,7 @@ The **Hospital Management System** is a web-based application designed to effici
 
 ### For Doctors:  
 1. Log in to your dashboard.  
-2. View and manage patient appointments.  
-
----
-
-## Screenshots  
-Add relevant screenshots of your application to showcase its features.  
-
----
-
-## Contribution  
-Contributions are welcome! Please follow these steps:  
-1. Fork the repository.  
-2. Create a new branch for your feature (`git checkout -b feature-name`).  
-3. Commit your changes (`git commit -m 'Add some feature'`).  
-4. Push to the branch (`git push origin feature-name`).  
-5. Open a pull request.  
+2. View and manage patient appointments.    
 
 ---
 
